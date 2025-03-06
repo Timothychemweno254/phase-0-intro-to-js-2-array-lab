@@ -5,22 +5,22 @@
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2025-02-27T18:41:50.271Z",
-    "end": "2025-02-27T18:41:50.678Z",
-    "duration": 407
+    "start": "2025-03-06T09:39:03.325Z",
+    "end": "2025-03-06T09:39:03.712Z",
+    "duration": 387
   },
   "tests": [
     {
       "title": "adds a cat to the end of the array",
       "fullTitle": "Array functions destructivelyAddCat adds a cat to the end of the array",
-      "duration": 1,
+      "duration": 15,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a new array with a cat added to the end",
       "fullTitle": "Array functions addCat returns a new array with a cat added to the end",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -31,14 +31,14 @@
     {
       "title": "adds a cat to the end of the array",
       "fullTitle": "Array functions destructivelyAddCat adds a cat to the end of the array",
-      "duration": 1,
+      "duration": 15,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a new array with a cat added to the end",
       "fullTitle": "Array functions addCat returns a new array with a cat added to the end",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
